@@ -1,0 +1,20 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    color: hotpink;
+    font-family: sans-serif;
+    text-align: center;
+}
+p{
+    text-align: right;
+    text-decoration: underline;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p:hover{
+    color: red;
+    background-color: rgba(0.4, 0, 0, 1);
+}
